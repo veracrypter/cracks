@@ -1,5 +1,8 @@
---it actually doesnt have any hwid protection but ok 
--- https://e-z.tools/r8lfn6az0l0kyd7914.jpg 
+--[[ it actually didnt had any protection
+https://github.com/FurrySharks/furrysharks/blob/main/yaya.lua
+https://e-z.tools/r8lfn6az0l0kyd7914.jpg ss
+bye
+]]
 --[[
 local allowedHWIDs = {
     "nigga", --bs
