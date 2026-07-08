@@ -1,4 +1,5 @@
---it actually doesnt have any hwid protection but ok
+--it actually doesnt have any hwid protection but ok 
+-- https://e-z.tools/r8lfn6az0l0kyd7914.jpg 
 --[[
 local allowedHWIDs = {
     "nigga", --bs
